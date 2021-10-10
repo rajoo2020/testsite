@@ -10,9 +10,9 @@
     <a class="logo" href="index.md"><i>Muddy Paws</i> <b>Adventure Gear</b></a>
 	<div class="navbar">
 		<a class="home" href="index.md">Home</a>
-		<a class="products" href="products.html">Products</a>
-		<a class="active about" href="about.html">About</a>
-		<a class="contact" href="contact.html">Contact</a>
+		<a class="products" href="products.md">Products</a>
+		<a class="active about" href="about.md">About</a>
+		<a class="contact" href="contact.md">Contact</a>
     </div>
     <h1 class="page-name">About</h1>
     <div class="aboutText">

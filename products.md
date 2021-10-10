@@ -10,9 +10,9 @@
     <a class="logo" href="index.md"><i>Muddy Paws</i> <b>Adventure Gear</b></a>
 	  <div class="navbar">
       <a class="home" href="index.md">Home</a>
-      <a class="active products" href="products.html">Products</a>
-      <a class="about" href="about.html">About</a>
-      <a class="contact" href="contact.html">Contact</a>
+      <a class="active products" href="products.md">Products</a>
+      <a class="about" href="about.md">About</a>
+      <a class="contact" href="contact.md">Contact</a>
     </div>
     <div class=productStatus></div>
     <h1 class="productsTitle">Products</h1>
@@ -31,7 +31,7 @@
 
     <div class="productCatHarness">
       <img src="photos/catharness.jpg" class="dogHarnessPhoto" alt="Black labrador with a navy blue harness stands in the road in front of the legs of its owner.">
-      <a href="catharnessdetails.html" class="catHarnessName">Cat Harness</a>
+      <a href="catharnessdetails.md" class="catHarnessName">Cat Harness</a>
       <p class="catHarnessPrice">$25</p>
       <div class="colors" id="catHarnessColors">
         <div class="circle strawberry"></div>

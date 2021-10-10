@@ -8,9 +8,9 @@
 	<a class="logo" href="index.md"><i>Muddy Paws</i> <b>Adventure Gear</b></a>
 	<div class="navbar">
 		<a class="active home" href="index.md">Home</a>
-		<a class="products" href="products.html">Products</a>
-		<a class="about" href="about.html">About</a>
-		<a class="contact" href="contact.html">Contact</a>
+		<a class="products" href="products.md">Products</a>
+		<a class="about" href="about.md">About</a>
+		<a class="contact" href="contact.md">Contact</a>
 	</div>
 	<div class=homeStatus></div>
     <h1 id="heroHeading">Get the best gear for<br>
@@ -20,7 +20,7 @@
 	that you and your best friend can<br>
 	comfortably trek the world. 
 	</p>
-	<input type="button" href="products.html" id="explore" value="Explore" onclick="purchaseItem()"/>
+	<input type="button" href="products.md" id="explore" value="Explore" onclick="purchaseItem()"/>
 	<img src="photos/herodog.jpg" id="heroImage" alt="In a rocky and dusty scene, a husky with sits on a rock grinning and looking into the distance as its owner, wearing hiking shoes and shorts, stands behind it gripping its harness.">
   </body>
 </html>
